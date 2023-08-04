@@ -6,7 +6,7 @@ I'm a DevSecOps Consultant at [Goodyear](https://www.goodyear.com.ph/). AUTOMATI
 
 ## ⚡Updates
 - 🔭 I’m currently working on learning the following the right.
-- 🌱 Recently completed `SonarQube integration to GitHub Repository` automation.
+- 🌱 Recently completed `SonarQube integration to GitHub Repository` automation that supports the following languages `Maven`, `Gradle`, `.Net` and `Others (JS, TS, Go, Python, PHP, and etc..)`.
 - 💬 Ask me about programming and DevOps!
 - 📫 How to reach me: Email: chrissianjade_pira@goodyear.com
 - ⚡ Fun fact: I love automating soo much that I also automated my home with IoT automation 
