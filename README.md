@@ -13,6 +13,7 @@ I'm a DevSecOps Consultant at [Goodyear](https://www.goodyear.com.ph/). AUTOMATI
 
 ## ⚡Domains
 - DevOps
+- Security
 - Cloud
 - Programming
   
