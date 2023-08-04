@@ -9,7 +9,7 @@ I'm a DevSecOps Consultant at [Goodyear](https://www.goodyear.com.ph/). AUTOMATI
 - 🌱 Recently completed Goodyear Repository Template.
 - 💬 Ask me about programming and DevOps!
 - 📫 How to reach me: Email: chrissianjade_pira@goodyear.com
-- ⚡ Fun fact: I love automating soo much that I also IoT automation 
+- ⚡ Fun fact: I love automating soo much that I also automated my home with IoT automation 
 
 ## ⚡Domains
 - DevOps
