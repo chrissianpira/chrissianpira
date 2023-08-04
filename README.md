@@ -34,6 +34,7 @@ I'm a DevSecOps Consultant at [Goodyear](https://www.goodyear.com.ph/). AUTOMATI
 ![Static Badge](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB)
+![Static Badge](https://img.shields.io/badge/powershell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
