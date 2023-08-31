@@ -21,6 +21,7 @@ I'm a DevSecOps Consultant at [Goodyear](https://www.goodyear.com.ph/). AUTOMATI
 ![Static Badge](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=gitHUB&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/redhat-000000?style=for-the-badge&logo=redhat&logoColor=EE0000)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Amazon%20AWS-orange?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github%20actions-white?style=for-the-badge&logo=github%20actions&logoColor=2088FF)
@@ -44,4 +45,6 @@ I'm a DevSecOps Consultant at [Goodyear](https://www.goodyear.com.ph/). AUTOMATI
 ![Static Badge](https://img.shields.io/badge/confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Servicenow-%23001211?style=for-the-badge&logo=Now&logoColor=63B6A2)
 ![Static Badge](https://img.shields.io/badge/yaml-%23CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+
 
